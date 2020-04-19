@@ -155,3 +155,21 @@ Which each 每个
 Which 哪 哪一个
 Whose 谁的
 Would 将
+For reasons 由于某些原因
+Rules of thumb 经验法则 (好想是类似于形容前人经验的感觉)
+Lots 很多
+Space overhead 空间开销
+Matters 重要的
+Requires 要求
+Only while 有时候
+Subsequently 随后
+Decide 决定
+Actually 其实 究竟
+Often 经常
+And then 接着
+Which we 我们
+Shall 将
+Reorder 重新排序 重新安排
+Consider 考虑
+Phase 阶段
+What if 如果
